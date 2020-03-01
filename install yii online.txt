@@ -1,0 +1,24 @@
+composer global require "fxp/composer-asset-plugin:*"
+
+install with cmd:
+basic:
+composer create-project --prefer-dist yiisoft/yii2-app-basic basic
+advanced:
+composer create-project yiisoft/yii2-app-advanced nama_projek
+
+migasi db
+php yii migrate
+
+
+repository date picker widget:
+https://github.com/2amigos/yii2-date-picker-widget
+install them:
+composer require 2amigos/yii2-date-picker-widget:"*"
+
+install select2:
+composer require kartik-v/yii2-widget-select2 "dev-master"
+tutorial penggunaan:
+https://github.com/kartik-v/yii2-widget-select2
+
+download:
+https://www53.zippyshare.com/d/moDRp1Jf/26845/%5bwww.gigapurbalingga.net%5d_FoxtPhntmPDFBs97129511M.part1.rar
